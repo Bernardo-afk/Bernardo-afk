@@ -1,1 +1,1 @@
-![Logo da Minha Empresa](blob:https://web.whatsapp.com/50ba15f4-3221-484f-9a9c-f2d43d55c7d9)
+![Logo da Minha Empresa](https://cdn.discordapp.com/attachments/1293007652594389045/1293262722288451638/WhatsApp_Image_2024-10-08_at_14.17.38.jpeg?ex=6706bc44&is=67056ac4&hm=a1ce0a0ee330e48534e1fcbf1098a49e5635fa2ecfcf2eb6eeec22b61fe12028&)
