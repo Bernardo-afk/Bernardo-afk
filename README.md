@@ -28,7 +28,8 @@
 
 ###
 
-<p align="left">Olá! Sou Bernardo Atadia, um estudante apaixonado por Engenharia da Computação na PUCCAMP. Estou sempre em busca de aprender e crescer na área de tecnologia, desenvolvendo minhas habilidades em programação. Com uma sólida base nas linguagens HTML, CSS, Java, Lua, Python, C e Assembly, estou constantemente explorando novos desafios.</p>
+<p align="left">Olá! Sou Bernardo Atadia, um estudante apaixonado por Engenharia da Computação na PUCCAMP.</p>
+  <p align="left">Estou sempre em busca de aprender e crescer na área de tecnologia, desenvolvendo minhas habilidades em programação.</p> <p align="left"> Com uma sólida base nas linguagens HTML, CSS, Java, Lua, Python, C e Assembly, estou constantemente explorando novos desafios.</p>
 
 ###
 
