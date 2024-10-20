@@ -20,6 +20,6 @@ Meus repositórios são dedicados ao estudo e incluem projetos que refletem meu 
 📫 Entre em Contato
 Estou sempre aberto a colaborações e oportunidades de aprendizado. Sinta-se à vontade para me contatar através das minhas redes sociais ou e-mail!
 
-LinkedIn
-E-mail
+[E-mail](mailto:bernardo.atadia0609@gmail.com)
+
 
