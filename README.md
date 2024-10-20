@@ -49,5 +49,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="lua"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node.js logo"  />
+    <img width="12" />
 </div>
