@@ -6,7 +6,7 @@ Atualmente, estou participando de um projeto de integração chamado "Games em A
 
 💻 Habilidades
 Linguagens de Programação:
-HTML, CSS, Java, Lua, Python, C, Assembly
+*Item 1 HTML, CSS, Java, Lua, Python, C, Assembly
 Aprendendo:
 C++, C#, Banco de Dados
 
