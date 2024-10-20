@@ -53,4 +53,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node.js logo"  />
     <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubunto"  />
+    <img width="12" />
 </div>
