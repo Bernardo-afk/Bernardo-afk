@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📝 I regularly write about my studies on <a href="https://ripe-moat-f8e.notion.site/7aefb89b3c174143a877e3fce49b2ea1?v=12ded290839943ef96d22435066ab9d1&pvs=4">Engineering Wiki</a><br>📚 I'm currently learning TypeScript, JavaScript with Node.js and C++ <br>🎯My biggest goal is to become a full-stack software engineer<br>🎲 Fun fact: I'm the best ice cream man in Hortolândia-SP</p>
+<p align="left">Olá! Sou Bernardo Atadia, um estudante apaixonado por Engenharia da Computação na PUCCAMP. Estou sempre em busca de aprender e crescer na área de tecnologia, desenvolvendo minhas habilidades em programação. Com uma sólida base nas linguagens HTML, CSS, Java, Lua, Python, C e Assembly, estou constantemente explorando novos desafios.</p>
 
 ###
 
