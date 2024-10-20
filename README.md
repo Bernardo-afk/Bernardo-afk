@@ -4,7 +4,7 @@ Olá! Sou Bernardo Atadia, um estudante apaixonado por Engenharia da Computaçã
 
 Atualmente, estou participando de um projeto de integração chamado "Games em Assembly", que me permite aprofundar meu conhecimento em programação de baixo nível e jogos.
 
-💻 Habilidades
+💻 #Habilidades
 Linguagens de Programação:
 *Item 1 HTML, CSS, Java, Lua, Python, C, Assembly
 Aprendendo:
