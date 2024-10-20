@@ -1,6 +1,4 @@
 # Hey 👋 What's up?
+Estudante de Engenharia da Computação | PUCCAMP
 
-My name is Enzo Garofalo and I'm a Student from Brazil!
-
-[![LinkedIn](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Instagram](https://simpleicons.org/icons/instagram.svg)](https://www.instagram.com/your-instagram-
+###[![Instagram](https://simpleicons.org/icons/instagram.svg)](https://www.instagram.com/bernardo_xtzz
